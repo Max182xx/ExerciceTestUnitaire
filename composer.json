@@ -1,0 +1,19 @@
+{
+    "name": "mgarc/testuntaire",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mgarc\\Testuntaire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mgarc",
+            "email": "m.garciapro34@gmail.com"
+        }
+    ],
+    "require": {}
+}
